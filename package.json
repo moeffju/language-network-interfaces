@@ -1,14 +1,12 @@
 {
   "name": "language-network-interfaces",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Support for /etc/network/interfaces in Atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/moeffju/language-network-interfaces",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
